@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying on 42 São Paulo.<br>🌱 I’m currently learning Dart.<br>📫 How to reach me: afelipe-@student.42sp.org.br <br>⚡ Fun fact: I'm love video games.
+🔭 I'm currently studying on 42 São Paulo.<br>📫 How to reach me: afelipe-@student.42sp.org.br <br>⚡ Fun fact: I'm love video games.
 
 
 ## 🌐 Socials:
